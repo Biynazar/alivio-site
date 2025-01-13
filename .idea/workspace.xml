@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39bc2752-a320-408a-b34c-f5e27bf47ecb" name="Changes" comment="" />
+    <list default="true" id="39bc2752-a320-408a-b34c-f5e27bf47ecb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sprites.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/hero_bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/photo_card.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/webp/video_cover.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/variables.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
@@ -24,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,11 +68,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736767905159</updated>
-      <workItem from="1736767906647" duration="2558000" />
+      <workItem from="1736767906647" duration="2873000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
