@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="39bc2752-a320-408a-b34c-f5e27bf47ecb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sprites.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/card_3.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/hero_bg.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/photo_card.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/webp/video_cover.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +33,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736767905159</updated>
-      <workItem from="1736767906647" duration="2873000" />
+      <workItem from="1736767906647" duration="7682000" />
     </task>
     <servers />
   </component>
